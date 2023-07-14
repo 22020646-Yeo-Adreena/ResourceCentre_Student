@@ -126,6 +126,7 @@ public class ResourceCentre {
 
 	// ================================= Option 1 View items (CRUD- Read)
 	// =================================
+	//==================================
 	public static String retrieveAllCamcorder(ArrayList<Camcorder> camcorderList) {
 		String output = "";
 
